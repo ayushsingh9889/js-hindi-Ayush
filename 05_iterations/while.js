@@ -1,3 +1,5 @@
+// while loop first check condition then run
+
 let index = 0;
 
 while (index <= 10) {

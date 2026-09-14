@@ -11,3 +11,7 @@ git push
 7:14:30
 7:34:07
 7:38:51
+8:23:35
+8:40:00
+part 1- complete 
+part 2- start
